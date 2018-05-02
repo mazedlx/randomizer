@@ -1,3 +1,3 @@
-let { mix } = require('laravel-mix');
+let { mix } = require("laravel-mix");
 
-mix.js('js/main.js', 'dist');
+mix.js("js/main.js", "dist");
